@@ -1,4 +1,4 @@
-[![](https://github-readme-stats.vercel.app/api/?username=tomkark&count_private=true&theme=tokyonight&showicons=true)]()
+[![](https://github-readme-stats.vercel.app/api/?username=tomkark&count_private=true&theme=tokyonight&showicons=true)](#left)
 &nbsp;
 &nbsp;
 &nbsp;
