@@ -10,10 +10,10 @@ Not Much.
 <div align="center">
   <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=C&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-C++-d1a01f?style=for-the-badge&logo=c%2B%2B&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Cython-8299B9?style=for-the-badge&logo=python&logoColor=8299B9&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Cython-98b982?style=for-the-badge&logo=Cython&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NodeJS-98b982?style=for-the-badge&logo=NodeJS&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Bash-98b982?style=for-the-badge&logo=Bash&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 </p>
 
