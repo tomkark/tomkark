@@ -1,18 +1,40 @@
-[![](https://github-readme-stats.vercel.app/api/?username=tomkark&count_private=true&theme=tokyonight&showicons=true)](#left)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomkark)](https://github.com/anuraghazra/github-readme-stats#right)
+<h1 align="center">
+  <b>Tom Kark</b>
+</h1>
+
+Not Much.
+
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-C-c58545?style=for-the-badge&logo=C&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C++-d1a01f?style=for-the-badge&logo=c%2B%2B&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Cython-98b982?style=for-the-badge&logo=Cython&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NodeJS-98b982?style=for-the-badge&logo=NodeJS&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Bash-98b982?style=for-the-badge&logo=Bash&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
+<div align="center">
+  <a href="https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx?si=c2adaf83e7fa4826">
+    <img src="play.svg">
+  </a>
+</div>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tomkark&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tomkark&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![ContribGraph](https://activity-graph.herokuapp.com/graph?username=tomkark&custom_title=tom%20kark's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
+
+------
+
+Credit For Template: [abhigyantrips](https://github.com/abhigyantrips)
