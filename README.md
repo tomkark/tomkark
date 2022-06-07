@@ -1,9 +1,3 @@
-<h1 align="center">
-  <b>Tom Kark</b>
-</h1>
-
-Not Much.
-
 <br>
 
 <p>
