@@ -33,8 +33,6 @@ Not Much.
 </p>
 <br>
 
-[![ContribGraph](https://activity-graph.herokuapp.com/graph?username=tomkark&custom_title=tom%20kark's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
-
 ------
 
 Credit For Template: [abhigyantrips](https://github.com/abhigyantrips)
